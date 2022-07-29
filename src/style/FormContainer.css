@@ -1,0 +1,26 @@
+.form-container {
+    background-color: antiquewhite;
+    height: 85vh;
+    margin: 3rem;
+    border-radius: 10px;
+}
+
+.form-wrapper {
+    padding: 3rem;
+}
+.form-fields {
+    display: flex;
+    justify-content: center;
+}
+.label {
+    text-align:right ;
+    margin-right: 1rem;
+    margin-bottom: 2rem;
+    width: 50%;
+}
+
+.input-field {
+    text-align: left;
+    margin-left: 1rem;
+    width: 50%;
+}
